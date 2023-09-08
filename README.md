@@ -11,3 +11,10 @@
     - meat.html
     - vegetables.html
 - Connection with main index and "recipes".
+
+# Third Iteration:
+- Complete creation of rice recipe.
+    - New image.
+    - New description.
+    - New ingredients.
+    - New steps.
