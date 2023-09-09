@@ -1,0 +1,13 @@
+body {
+    background-color: #050505;
+    color: #f5f5f5
+}
+
+h1, h2, h3 {
+    background-color: #0f0f0f;
+    text-align: center;
+}
+
+.food {
+    text-align: center;
+}

@@ -33,3 +33,9 @@
 
 ## Fifth Iteration:
 - Forgot to do the backlinks.
+
+## Sixth Iteration:
+- Added style.css
+    - New background and text color
+    - New style of website
+    - Dark mode only
