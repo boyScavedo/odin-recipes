@@ -1,10 +1,15 @@
 body {
     background-color: #050505;
-    color: #f5f5f5
+    color: #f5f5f5;
 }
 
 h1 {
     background-color: #0f0f0f;
+    text-align: center;
+}
+
+.img-container {
+    display: block;
     text-align: center;
 }
 
@@ -13,6 +18,13 @@ h2 {
     text-align: center;
 }
 
-.recipes li {
-    align-items: center;
+span.recipe-container {
+    text-align: center;
+}
+
+ul {
+    padding-left: 0px;
+    display: block;
+    text-align: center;
+    list-style: none;
 }

@@ -31,11 +31,14 @@
     - New ingredients.
     - New steps.
 
-## Fifth Iteration:
+### Fifth Iteration:
 - Forgot to do the backlinks.
 
-## Sixth Iteration:
+### Sixth Iteration:
 - Added style.css
     - New background and text color
     - New style of website
     - Dark mode only
+
+### Seventh Iteration:
+- Centered images and fixed mistakes.
