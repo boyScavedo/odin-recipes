@@ -42,3 +42,6 @@
 
 ### Seventh Iteration:
 - Centered images and fixed mistakes.
+
+### Eight Iteration:
+- Centered lists

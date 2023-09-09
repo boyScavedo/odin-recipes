@@ -12,3 +12,15 @@ h1, h2, h3 {
     display: block;
     text-align: center;
 }
+
+ul {
+    padding-left: 46%;
+}
+
+ul.meat {
+    padding-left: 40%;
+}
+
+ul.vegetable {
+    padding-left: 33%;
+}
